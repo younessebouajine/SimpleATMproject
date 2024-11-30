@@ -1,0 +1,5 @@
+﻿  Project2 - ATM system.cpp
+C:\Users\Administrateur\source\repos\Project2 - ATM system\Project2 - ATM system\Project2 - ATM system.cpp(36,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Administrateur\source\repos\Project2 - ATM system\Project2 - ATM system\Project2 - ATM system.cpp(143): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+C:\Users\Administrateur\source\repos\Project2 - ATM system\Project2 - ATM system\Project2 - ATM system.cpp(164): warning C4715: 'ChangePinCodeinTheFile': not all control paths return a value
+  Project2 - ATM system.vcxproj -> C:\Users\Administrateur\source\repos\Project2 - ATM system\x64\Debug\Project2 - ATM system.exe
